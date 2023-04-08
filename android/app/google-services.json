@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "809650090121",
+    "project_id": "presence-getx-kuldi",
+    "storage_bucket": "presence-getx-kuldi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809650090121:android:22ac0f54788be002bf1658",
+        "android_client_info": {
+          "package_name": "com.nfl56.flutter_presensi_getx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809650090121-blubg2q0e9bupqu0chcae3te6lbvkggf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_nAXBuTAAOW5EnfmZ4fE99JS89bhzOm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809650090121-blubg2q0e9bupqu0chcae3te6lbvkggf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809650090121-ljfqe2f56ah8kl5r7cc7ipfkibl69qvh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nfl56.flutterPresenceGetx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
